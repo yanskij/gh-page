@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Test post"
+date:   2018-11-08 22:05:29 +0300
+categories: jekyll update
+---
+This is test page. Lul, it's working!
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
